@@ -8,6 +8,9 @@ class Program
         }
         int[] arr = null;
         Student st = new Student();
+        Student st = new Student();
+        Student st = new Student();
+        Student st = new Student();
     }
 
     static void Main(string[] args)
